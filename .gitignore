@@ -1,0 +1,12 @@
+.idea
+__pycache__
+*.log
+*_log.txt
+.~*
+*.xls
+*.xlsx
+*.xlsm
+*.zip
+*.db
+*.py_
+credentials.py
